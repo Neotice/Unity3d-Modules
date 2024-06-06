@@ -1,11 +1,11 @@
-#If you can't add modules to installed Unity editor you can download them via links on Hub/Editor/%version%/modules.json
+# If you can't add modules to installed Unity editor you can download them via links on Hub/Editor/%version%/modules.json
 
 1. open modules.json with a json file reader(you can use a browser)
 2. search the name of module in file
 3. you will find a download link and a determined destination
 4. download the zip then extract it in determined destination
 
-##Its a example for Unity Editor version 2021.3.39f1 :
+## Its a example for Unity Editor version 2021.3.39f1 :
 
 I downloaded 9 zip files for Unity Android Support contains SDK, NDK, OpenJDK, and Platformtools
 
